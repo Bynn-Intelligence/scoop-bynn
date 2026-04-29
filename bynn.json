@@ -1,19 +1,19 @@
 {
-    "version": "0.1.0",
+    "version": "0.2.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/Bynn-Intelligence/bynn-cli/releases/download/v0.1.0/bynn_0.1.0_windows_amd64.zip",
+            "url": "https://github.com/Bynn-Intelligence/bynn-cli/releases/download/v0.2.0/bynn_0.2.0_windows_amd64.zip",
             "bin": [
                 "bynn.exe"
             ],
-            "hash": "67db838bf369a9b181ce429da967b8228ec279b631815b9aeea0f3b8a1fb1365"
+            "hash": "2c6fbc19c06869d5789e0e1062e29c28394639a8a347136ef80cec2fc6bfd0ce"
         },
         "arm64": {
-            "url": "https://github.com/Bynn-Intelligence/bynn-cli/releases/download/v0.1.0/bynn_0.1.0_windows_arm64.zip",
+            "url": "https://github.com/Bynn-Intelligence/bynn-cli/releases/download/v0.2.0/bynn_0.2.0_windows_arm64.zip",
             "bin": [
                 "bynn.exe"
             ],
-            "hash": "5bfca3f5f38661fbbc654c914d72e9c8f1dc88596ce45ac0419fdd494148b1ec"
+            "hash": "60825dd27d178fc5dedc145e83a9a6d1f5af1bbc3c774c28bdf2d0fb39655a41"
         }
     },
     "homepage": "https://bynn.com",
