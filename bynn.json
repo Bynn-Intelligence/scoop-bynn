@@ -1,0 +1,22 @@
+{
+    "version": "0.1.0",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/Bynn-Intelligence/bynn-cli/releases/download/v0.1.0/bynn_0.1.0_windows_amd64.zip",
+            "bin": [
+                "bynn.exe"
+            ],
+            "hash": "67db838bf369a9b181ce429da967b8228ec279b631815b9aeea0f3b8a1fb1365"
+        },
+        "arm64": {
+            "url": "https://github.com/Bynn-Intelligence/bynn-cli/releases/download/v0.1.0/bynn_0.1.0_windows_arm64.zip",
+            "bin": [
+                "bynn.exe"
+            ],
+            "hash": "5bfca3f5f38661fbbc654c914d72e9c8f1dc88596ce45ac0419fdd494148b1ec"
+        }
+    },
+    "homepage": "https://bynn.com",
+    "license": "Proprietary",
+    "description": "Command-line interface for the BYNN Intelligence API"
+}
