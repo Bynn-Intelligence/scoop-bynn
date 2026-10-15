@@ -1,21 +1,21 @@
 {
-    "version": "0.2.0",
+    "version": "0.2.1",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/Bynn-Intelligence/decision-node-cli/releases/download/v0.2.0/dn_0.2.0_windows_amd64.zip",
+            "url": "https://github.com/Bynn-Intelligence/decision-node-cli/releases/download/v0.2.1/dn_0.2.1_windows_amd64.zip",
             "bin": [
                 "dn.exe",
                 "bynn-dn.exe"
             ],
-            "hash": "21fae3f7778aba2de3624665197ea67fc57648f47b27babc1f2f6ae91fd804c1"
+            "hash": "a194fdaf3cbff000b72a175bad04339cbb8a61959bf8fcb68d0b5ab9827f2e42"
         },
         "arm64": {
-            "url": "https://github.com/Bynn-Intelligence/decision-node-cli/releases/download/v0.2.0/dn_0.2.0_windows_arm64.zip",
+            "url": "https://github.com/Bynn-Intelligence/decision-node-cli/releases/download/v0.2.1/dn_0.2.1_windows_arm64.zip",
             "bin": [
                 "dn.exe",
                 "bynn-dn.exe"
             ],
-            "hash": "ac506fe42227f17dff540181cc35d81f055fb5ce068f798519e358009109eb7b"
+            "hash": "a37fadd7212fdd42e75e7e7dc54b0ce492706936edae89051ad3b400327c6017"
         }
     },
     "homepage": "https://decisionnode.com",
